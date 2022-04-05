@@ -37,12 +37,44 @@ Una volta ottenuti tutti i documenti, e' necessario presentare domanda a VFS Tas
 Dalla controparte, il vostro datore di lavoro, dovra' procedere ad inviarvi una lettera di invito, copia del contratto di lavoro relativamente firmata, e QR-CODE rilasciato dalla Camera di Commercio Saudita che comprovi il vostro contratto.
 
 ## Viaggiare da e per l'Arabia Saudita (verso l'Italia!)
+Se un tempo era necessario un VISTO per entrare in Arabia Saudita, un passaporto e un biglietto Aereo, il COVID-19 ha cambiato un po' tutte le regole.
+
+Al momento, in base al questionario disponibile su [VIAGGIARESICURI](https://infocovid.viaggiaresicuri.it/) e alle informazioni disponibili nella relativa scheda tecnica [Arabia Saudita](https://www.viaggiaresicuri.it/country/SAU) la situazione si puo' riassumere cosi' come e':
+
+### Viaggiare per l'Italia
+Bisogna essere vaccinati (con booster), nessun molecolare richiesto, e compilare il Passenger Location Form
+
+### Viaggiare per l'Arabia Saudita
+Bisogna essere vaccinati (con booster), nessun molecolare richiesto, bisogna registrarsi sulla piattaforma di Muqeem per l'ingresso nel paese.
+Sebbene il Paese stia di gran lunga rimuovendo tutte le restrizioni, il certificato vaccinale e' meglio averlo a disposizione. Nel caso di ingressi per l'Umrah non e' necessaria la vaccinazione, si puo' entrare.. ma sono tutte novita' in costante aggiornamento, quindi essere vaccinati e' meglio. Diversamente, entrati nel paese, in assenza di informazioni sulla vaccinazione, la registrazione su Tawakkalna risentira' di questi dati mancanti, e vige ancora l'obbligo di mostrarla in posti al chiuso (diversamente, ingresso vietato).
 
 ## Documenti
 
 ## Operatori Mobili
 
 ## Dove mangiare
+Questo e' il mio capitolo preferito :) Riyadh ha ristoranti con cucine proveninenti da diverse parti del mondo, fermo restando che maiale ed alcool sono prodotti vietati per legge (e' vietata anche l'importazione per consumo personale), qui ci focalizziamo sui problemi principali di un Italiano che ha voglia di mangiare ITALIANO a Riyadh.
+
+Prima di tutto, se siete italiani, dovreste saper cucinare e arrangiarvi :) in secondo luogo, se proprio non c'avete voglia, abbiamo diverse alternative
+
+### Ristoranti
+* [Margherita](https://g.page/margherita-riyadh?share) : Situato sul Northen Ring Road (direzione east/ovest), offre una cucina Italiana con i piatti simbolo della Cucina Italiana, con possibilita' di ordinare anche Pizze. E' collocato in un complesso di ristoranti di diversi paesi.
+* [Pasta & Risotto](https://goo.gl/maps/uab1JngmYP7Nu7P68) : Un interessante ristorante situato su King Fahd Road, dove avrete il piacere di gustare la cucina italiana con richiami alla cucina romana
+* [SCALINI]: 
+* [MAMO]:
+* [Cipriani]:
+* [San Carlo Cicchetti]:
+* [Serafina Italian Restaurant]:
+* [Eataly]:
+
+L'elenco non e' completo, di molti mancano informazioni perche' ancora non ho avuto modo di provarli.. altri non sono nominati perche' e' difficile capire quali sono o quali non sono italiani (cosa fa di un ristorante un Ristorante Italiano? Il menu? Gli Ingredienti? Lo Chef? Il Personale?)
+
+### Pizzerie
+* [Margherita]: Vedere descrizione tra i ristoranti
+* [La Rustica]: La Rustica e' una pizzeria/ristorante (la quantita' di prodotti diversi dalla pizza e' molto limitata) che si richiama alla tradizione meridionale italiana. Non e' un posto 100% Italiano (come nessuno dei posti qui), ma la loro pizza e' buona.   
+* [L'Antica Pizzeria da Michele]
+* [Russo's New York]
+* [Bones]
 
 ## Patente/Noleggio Auto
 
