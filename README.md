@@ -80,6 +80,15 @@ L'elenco non e' completo, di molti mancano informazioni perche' ancora non ho av
 ## Patente/Noleggio Auto
 
 ## Luoghi da Visitare a Riyadh
+* [Masmak Fortress](https://en.wikipedia.org/wiki/Masmak_Fort)
+* [Al Masmak Palace Museum](https://welcomesaudi.com/activity/al-masmak-palace-museum)
+** Entrambi i posti sono collegati in quanto parte di un unico edificio. All'interno si trovano fotografie e reperti storici relativi al periodo della fondazione della moderna Arabia Saudita da parte di [King Abdulaziz Al-Saud](https://en.wikipedia.org/wiki/Ibn_Saud). 
+A pochi passi (all'interno di una area piacevolmente verde) si trova [The National Museum of Saudi Arabia](https://www.visitsaudi.com/en/see/highlights/the-national-museum-of-saudi-arabia)
+* [Kingdom Centre Tower](https://www.visitsaudi.com/en/do/family-activities/the-sky-bridge-at-kingdom-centre)
+* [Al Faisaliyah Center](https://en.wikipedia.org/wiki/Al_Faisaliyah_Center)
+* [Historical Diriyah](https://www.visitsaudi.com/en/see/highlights/historical-Dir-iyah)
+
+
 
 ## Altro
 
