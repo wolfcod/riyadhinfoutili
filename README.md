@@ -51,6 +51,32 @@ Sebbene il Paese stia di gran lunga rimuovendo tutte le restrizioni, il certific
 ## Documenti
 
 ## Operatori Mobili
+L'Arabia Saudita e' un paese grande in termini di estensione geografica, confrontato all'Italia. Un paese cosi' grande, prevede anche costi alti per mantenere connessi i vostri dispositivi alla rete telefonica, di conseguenza, che voi scegliata una Prepaid o una Postpaid (il classico abbonamento), sappiate che dovrete mettere mani al portafogli (o meglio, alla carta di credito) per la connettivita' che confrontata all'Italia e' decisamente cara, molto cara.
+
+Prima di tutto, cercate di capire per cosa vi serve una SIM, che genere di servizi usate abitualmente, e quanto tempo dovrete restare nel paese.
+Innanzitutto, in assenza di una IQAMA, potrete avere al massimo una SIM registrata presso un operatore (non ho provato a comprarne una seconda presso un altro, ma dal medesimo e' stata NO. Niente IQAMA niente seconda SIM).
+
+In secondo luogo, sappiate che alcuni servizi sono bloccati (al di la' di siti web proibiti, tutti gli operatori principalmente vi impediscono di usare le chiamate WHATSAPP), quindi, se avete necessita' particolari prima di entrare procuratevi una VPN.
+
+Secondo, i pacchetti sono composti principalmente da tariffe che vi danno:
+- Un numero limitato o illimitato di chiamate all'interno del network (stesso operatore);
+- Un numero limitato o illimitato di chiamate all'esterno del network (altri operatori);
+- SMS (a pagamento, un tot di sms mensili etc.);
+- Una quota di GB (spesso se superate un certo volume giornaliero, la banda sara' limitata a 512kbps per il resto della giornata);
+- Una quota di GB per i servizi Social (Whatsapp, Facebook, Youtube, Snapchat, Google Maps);
+- Altre opzioni a vostra scelta.
+
+Gli operatori principalmente nei centri abitati (e spesso anche in prossimita') offrono la copertura 5G gratuitamente, quindi se avete un cellulare di ultima generazione qui potrete tranquillamente apprezzare la velocita' della rete 5G.
+
+Il prezzo andra' mediamente dai 110 ai 240 o piu' Saudi Rial mensilmente. Le offerte TOP di GAMMA possono arrivare a costare quasi 1.000 Rial mensili, dove la scadenza "mensile" e' fissata nelle canoniche 4 settimane. Secondo luogo, spesso, alcuni operatori, vi forniscono un piano all'apparenza conveniente per voi, e poi scoprite il mese successivo che quel piano tariffario non esiste piu', forzandovi a scegliere un piano piu' costoso per i medesimi servizi, quindi quando sceglierete con chi fare la SIM tenetene conto.
+
+Operatori disponibili nel paese:
+- STC: E' l'operatore che vi offre piu' copertura, anche fuori dalla citta';
+- Mobily: Secondo operatore che troverete in circolazione, la sua offerta e' molto simile, ma la copertura 5G spesso non e' presente in diverse aree. Di per se non e' un problema, ma vi potrebbe causare qualche noia durante le chiamate VOIP fatte ai vostri parenti/amici fuori dal paese;
+- Zain: E' un altro operatore che offre pacchetti molto simili, considerato forse come il migliore per la velocita' della banda 5G;
+- Operatori Virtuali: Troverete Virgin, Jawwy SIM e forse qualcos'altro, ma non verificate in prima persona. Jawwy si appoggia alla rete STC ed ha tariffe con pochi Gb accessibili a basso prezzo, per andare incontro a quella fascia di popolazione che usa i social per restare in contatto con i parenti all'estero.
+
+Inoltre, in alcuni pacchetti, l'offerta INTERNET e' affiancata da una seconda offerta accessibile tramite WIFI. STC ha dislocato in tantissimi posti punti di accesso WIFI che vi permettono di autenticarvi attraverso la vostra SIM e usufruire di GB extra (solitamente lo stesso numero di GB della offerta classica dati).
 
 ## Dove mangiare
 Questo e' il mio capitolo preferito :) Riyadh ha ristoranti con cucine proveninenti da diverse parti del mondo, fermo restando che maiale ed alcool sono prodotti vietati per legge (e' vietata anche l'importazione per consumo personale), qui ci focalizziamo sui problemi principali di un Italiano che ha voglia di mangiare ITALIANO a Riyadh.
