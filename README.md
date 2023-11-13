@@ -84,26 +84,24 @@ Questo e' il mio capitolo preferito :) Riyadh ha ristoranti con cucine provenine
 Prima di tutto, se siete italiani, dovreste saper cucinare e arrangiarvi :) in secondo luogo, se proprio non c'avete voglia, abbiamo diverse alternative
 
 ### Ristoranti
-* [Margherita](https://g.page/margherita-riyadh?share) : Situato sul Northen Ring Road (direzione east/ovest), offre una cucina Italiana con i piatti simbolo della Cucina Italiana, con possibilita' di ordinare anche Pizze. E' collocato in un complesso di ristoranti di diversi paesi.
-* [Pasta & Risotto](https://goo.gl/maps/uab1JngmYP7Nu7P68) : Un interessante ristorante situato su King Fahd Road, dove avrete il piacere di gustare la cucina italiana con richiami alla cucina romana
 * [SCALINI]: 
 * [MAMO]:
 * [Cipriani]:
 * [San Carlo Cicchetti]:
 * [Serafina Italian Restaurant]:
 * [Eataly]:
+* [MADEO]:
 
 L'elenco non e' completo, di molti mancano informazioni perche' ancora non ho avuto modo di provarli.. altri non sono nominati perche' e' difficile capire quali sono o quali non sono italiani (cosa fa di un ristorante un Ristorante Italiano? Il menu? Gli Ingredienti? Lo Chef? Il Personale?)
 
 ### Pizzerie
-* [Margherita]: Vedere descrizione tra i ristoranti
 * [La Rustica]: La Rustica e' una pizzeria/ristorante (la quantita' di prodotti diversi dalla pizza e' molto limitata) che si richiama alla tradizione meridionale italiana. Non e' un posto 100% Italiano (come nessuno dei posti qui), ma la loro pizza e' buona.   
 * [L'Antica Pizzeria da Michele](https://goo.gl/maps/CJHas8hLDyZnMhP98): Situata su Prince Turki Ibn Abdulaziz Al Awwal Rd, si trova vicino alla King Saudi University, e nell'area commerciale U-Walk. Ho aspettato un po' a provare da Michele qui a Riyadh, nonostante abbiano aperti nello stesso periodo in cui io sono arrivato qui.. Non ero un grande fan da Michele a Milano, quindi ero un po' restio a provarla. Ma devo dire personalmente che di tutte le pizze mangiate qui a Riyadh (e non sono tante, credo le possiamo contare con le dita delle mani) questa e' la PIZZA come me l'aspettavo. Dopo aver mangiato una pizza bisogna sentirsi sazi. Se questo manca.. allora la pizza ha un problema, non nella qualita', ma nella quantita'. Da Michele questo problema non l'ho riscontrato. La loro pizza si fa fatica a finirla, bisogna mettersi di impegnoi o evitare gli antipasti. Ottimo anche il loro Tiramisu'. L'unica nota dolente che si puo' trovare a questo posto e' la location. La zona e' veramente trafficata. Ed ovviamente il conto. non vi aspettate che sia un posto economico.
 * [Russo's New York]: Ancora da provare, situato all'interno del Diplomatic Quarter in una zona abbastanza tranquilla, no auto, no traffico.. e' un complesso  costruito al centro di 2 strade non trafficate, quindi un posto dove poter mangiare con tranquillita' senza il caos del traffico cittadino.
-* [Bones](https://goo.gl/maps/181MqfXJBbZgxku89): Situato su Anas Ibin Malik Rd, nella zona nord di Riyadh, dovrebbe essere inserito tra i ristoranti, ma io preferisco tenerlo tra le pizzerie perche' cosi' come La Rustica, sono posti dove si va a mangiare la pizza. Il posto non e' particolarmente ampio di spazio (credo di aver contato meno di 70 coperti disposti in una unica sala), la cucina e' affidata ad uno Chef Italiano, e la struttura ha una impostazione di una tipica Pizzeria italiana (arredo a parte, moderno.. non da pizzeria), quindi Pizze (le classiche pizze che ci aspettiamo di trovare in un qualsiasi ristorante italiano) e velocita'. Il prodotto risultato e' buono, i tempi di attesa nella norma, ma in una fascia oraria sbagliata rischierete di dover aspettare un po' per trovare posto. Quindi PRENOTATE casomai. Qui, per saziare la mia fame, bisogna andare di antipasto e pizza, in quanto il prodotto e' rispetta gli appetiti dei locali, non dei meridionali come me.
 *
 
 ## Patente/Noleggio Auto
+Una domanda spesso e volentieri fatta e' posso guidare in Arabia Saudita con la patente italiana? La risposta corretta sarebbe NO. La patente del proprio paese di origine e' accettata solo e solo se e' in lingua inglese, questo vale per le patenti australiane, canadesi, stati uniti, inglesi, forse neo zelandesi. E' necessario munirsi di una patente internazionale (IDP), che e' banalmente una traduzione del proprio titolo di guida fatto dalla motorizzazione o da una agenzia ACI. Sebbene troverete informazioni contrastranti, la realta' e' che puo' essere anche che il noleggio vada a buon fine, ma il problema principale resta in caso vi troviate malauguratamente nelle condizioni di dover presentare il vostro titolo alla Forze di Polizia o in caso di constatazione di un sinistro. L'assicurazione del veicolo paghera' ovviamente per il sinistro, ma si potra' rivalere su di voi. Quindi, se avete in mente di viaggiare all'estero, spendete 50 euro e munitevi di IDP.
 
 ## Luoghi da Visitare a Riyadh
 * [Masmak Fortress](https://en.wikipedia.org/wiki/Masmak_Fort)
